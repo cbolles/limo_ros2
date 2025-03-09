@@ -16,4 +16,4 @@ RUN chmod 777 run.sh
 # Copy over the custom launch file
 COPY limo_launch.py limo_launch.py
 
-CMD ./run.sh
+# CMD ./run.sh
